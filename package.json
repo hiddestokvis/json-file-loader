@@ -1,0 +1,25 @@
+{
+  "name": "json-file-loader",
+  "version": "0.0.1",
+  "description": "Loads a json file and parses it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiddestokvis/json-file-loader.git"
+  },
+  "keywords": [
+    "JSON",
+    "file",
+    "load",
+    "config.json"
+  ],
+  "author": "Hidde Stokvis <hidde@neverhide.nl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hiddestokvis/json-file-loader/issues"
+  },
+  "homepage": "https://github.com/hiddestokvis/json-file-loader#readme"
+}
